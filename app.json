@@ -7,7 +7,6 @@
   "env": {
     "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
     "ROOT_URL": {
-      "description": "The full URL of your Telescope app."
     }
   },
   "addons": [
